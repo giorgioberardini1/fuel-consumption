@@ -53,4 +53,4 @@ _savings ($): 489000_
 In a real scenario there are multiple factors that might affects the fuel consuption, in this projects we are going to explore them in order to find a Regressor that can handle this problem. 
 
 
-NB: in the fuelconsumption.ipynb you will find the complete project. 
+_NOTE: in the fuelconsumption.ipynb you will find the complete project._
