@@ -1,4 +1,4 @@
-#Fuel Consumption
+# Fuel Consumption
 
 The dataset we are going to work with contains transactions about a company that manages 82 gas stations located in Italy for the years 2018 and 2019.
 
