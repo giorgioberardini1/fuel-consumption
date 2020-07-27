@@ -6,7 +6,7 @@ The dataset we are going to work with contains transactions about a REAL company
 
 Why? 
 
-Let's assume for simplicity that the company capital is $1 million and number of the store is 4.  
+Let's assume for simplicity that the company capital is $1 million and number of the stores is 4.  
                 
                
 The first idea is to divide $1 million by four and reload each tank for that amount of fuel. Assuming that the cost of one liter is 0.669 we can summarize our problem as follow:
